@@ -4,6 +4,7 @@ public class test{
 		system.out.println("Hello,Wrod");
 		system.out println("Hello");
 		system.out println("Wrod");
+		system.out println("Hello,Wrod");
 
 	}
 }
